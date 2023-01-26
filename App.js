@@ -3,7 +3,7 @@ import React, { useEffect } from 'react';
 //컴포넌트를 더이상 불러오지 않아도 됩니다.
 // import MainPage from './pages/MainPage';
 // import DetailPage from './pages/DetailPage';
-// 사랑해여
+// 사랑해여ㅎㅎ
 import { StatusBar } from 'expo-status-bar';
 
 //메인에 세팅할 네비게이션 도구들을 가져옵니다.
